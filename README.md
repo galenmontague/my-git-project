@@ -1,3 +1,3 @@
 # My Git Project
 
-> My code for my Git project
+> My read.me for my Git project
