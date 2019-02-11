@@ -1,3 +1,4 @@
 secrets.yml
 node_modules/
 anothersecret.yml
+contains_secrets/
