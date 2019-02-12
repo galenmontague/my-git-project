@@ -5,4 +5,7 @@ this is nextFeature
 
 another change
 
-here's some new content for anotherNF
+deleted and changed this line in anotherNF branch
+
+def hi_there():
+    print("hi")
